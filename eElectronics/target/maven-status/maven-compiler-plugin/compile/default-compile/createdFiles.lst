@@ -1,0 +1,8 @@
+com\atanu\model\User.class
+com\atanu\dao\impl\ProductDaoImpl.class
+com\atanu\dao\ProductDao.class
+com\atanu\dao\impl\UserDaoImpl.class
+com\atanu\model\Product.class
+com\atanu\dao\UserDao.class
+com\atanu\service\impl\ProductServiceImpl.class
+com\atanu\service\impl\UserServiceImpl.class
